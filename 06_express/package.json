@@ -1,0 +1,17 @@
+{
+  "name": "06_express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "@types/node": "^26.4.0",
+    "express": "^5.2.1"
+  }
+}
